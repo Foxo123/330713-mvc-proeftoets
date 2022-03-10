@@ -10,7 +10,7 @@ define('DB_NAME', 'magazijn');
 define('APPROOT', dirname(dirname(__FILE__)));
 
 //url root
-define('URLROOT', 'http://www.mvc-330713-framework.org');
+define('URLROOT', 'http://mvc-workbench.org/');
 
 //sitename
 define('SITENAME', 'MVC framework');
