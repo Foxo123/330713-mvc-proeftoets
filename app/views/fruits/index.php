@@ -19,7 +19,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <h1>Overzicht van Artikelen</h1>
+            <h1>Overzicht van Fruit</h1>
         </div>
         <div class="row">
             <div class="col">
