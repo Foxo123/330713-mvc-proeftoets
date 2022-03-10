@@ -2,8 +2,8 @@
 
 class Core
 {
-    protected $currentController = 'Fruits';
-    protected $currentMethod = 'home';
+    protected $currentController = 'Home';
+    protected $currentMethod = 'index';
     protected $params = [];
 
     public function __construct()

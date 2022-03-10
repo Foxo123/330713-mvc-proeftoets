@@ -27,13 +27,9 @@
                     <thead>
                         <tr>
                             <th scope="col">id</th>
-                            <th scope="col">omschrijving</th>
-                            <th scope="col">category</th>
-                            <th scope="col">aantal</th>
-                            <th scope="col">locatie</th>
+                            <th scope="col">name</th>
+                            <th scope="col">color</th>
                             <th scope="col">kosten</th>
-                            <th></th>
-                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
